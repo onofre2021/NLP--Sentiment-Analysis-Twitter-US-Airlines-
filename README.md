@@ -30,3 +30,17 @@ To conduct a Sentiment Analysis on the tweets written about major U.S. Airlines 
 - LO4) Tf-idf, 
 - LO5) Build the classification model, 
 - LO6) Evaluate the Model
+
+### Code:
+- The code was written and tested with Python 3.8 in a jupyter notebook 
+- The jupyter notebook includes a table of contents with all information about Python libraries needed
+- The process is also explained in detail in the jupyter notebook
+- The dataset is identified as "Tweets.csv" 
+
+### Detailed Processs:
+- Import all necessary libraries
+- Load the subject dataset "Tweets.csv"
+- Review data set and perform exploratory data analysis
+- Vectorization
+- Modeling
+- Conclusion
